@@ -66,13 +66,13 @@ Montar un servidor que utilice todas las tecnologías vistas, permitiendo la int
 
 ### 3.1 Propuestas de Temática para el Proyecto Final
 
-**Asistente Virtual para FAQs Internas:** Un bot que responde preguntas frecuentes sobre la empresa o el área de trabajo, usando un conocimiento base y LLMs para mejorar la comprensión y personalización de respuestas.
+- **Asistente Virtual para FAQs Internas:** Un bot que responde preguntas frecuentes sobre la empresa o el área de trabajo, usando un conocimiento base y LLMs para mejorar la comprensión y personalización de respuestas.
 
-**Chatbot de Soporte Técnico:** Un chatbot capaz de analizar tickets de soporte técnico, categorizarlos y sugerir soluciones automatizadas o redirigir a un agente humano.
+- **Chatbot de Soporte Técnico:** Un chatbot capaz de analizar tickets de soporte técnico, categorizarlos y sugerir soluciones automatizadas o redirigir a un agente humano.
 
-**Traductor Automatizado y Analizador de Texto:** Servicio que traduce documentos en tiempo real y permite realizar análisis de sentimientos o extracción de entidades nombradas usando LLMs.
+- **Traductor Automatizado y Analizador de Texto:** Servicio que traduce documentos en tiempo real y permite realizar análisis de sentimientos o extracción de entidades nombradas usando LLMs.
 
-**Generador de Documentación Automatizada:** Sistema que genera documentación técnica a partir de código fuente o preguntas de usuarios, facilitando la actualización y mantenimiento de la documentación.
+- **Generador de Documentación Automatizada:** Sistema que genera documentación técnica a partir de código fuente o preguntas de usuarios, facilitando la actualización y mantenimiento de la documentación.
 
 Cualquier otra propuesta de temática de proyecto puede ser propuesta. El requisito mímnimo es que se usen las tecnologías que se han estudiado y puesto en práctica a lo largo del training.
 
