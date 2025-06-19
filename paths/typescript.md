@@ -73,3 +73,4 @@ Se debe montar un servidor que utilice todas las tecnologías vistas, gestionand
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)
 - [Supabase Docs](https://supabase.com/docs)
 - [LangGraph GitHub](https://github.com/langchain-ai/langgraph)
+- [Roadmaps](https://roadmap.sh/)
