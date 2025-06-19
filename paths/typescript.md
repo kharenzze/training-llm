@@ -15,7 +15,8 @@ El objetivo de este training es capacitar a los becarios en el uso de tecnologí
 ## 2. Javascript/TypeScript
 
 - [Modern Javascript](https://javascript.info/). De aquí, hay que terminar al menos la parte 1 "The Javascript Language"
-- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
+- [Typescript tutorial](https://www.w3schools.com/typescript/index.php)
+- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html). (Opcional) Para extender y entrar en detalle en los conceptos.
 
 ---
 
