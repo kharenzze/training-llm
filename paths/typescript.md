@@ -6,8 +6,6 @@ El objetivo de este training es capacitar a los becarios en el uso de tecnologí
 
 ## 1. Git
 
-### 1.1 ¿Qué es Git?
-
 - [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY).
 
 ---
