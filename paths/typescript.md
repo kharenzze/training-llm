@@ -8,86 +8,35 @@ El objetivo de este training es capacitar a los becarios en el uso de tecnologí
 
 ### 1.1 ¿Qué es Git?
 
-- Introducción a control de versiones
-- Ventajas de Git
-
-### 1.2 Comandos básicos
-
-- `git init`, `git clone`
-- `git add`, `git commit`, `git status`
-- `git branch`, `git checkout`, `git merge`
-- `git push`, `git pull`
-
-### 1.3 Trabajo en equipo
-
-- Flujo de ramas (branching strategy)
-- Pull requests
+- [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY).
 
 ---
 
-## 2. TypeScript
+## 2. Javascript/TypeScript
 
-### 2.1 ¿Qué es TypeScript?
-
-- Ventajas sobre JavaScript
-- Tipos estáticos
-
-### 2.2 Sintaxis básica
-
-- Interfaces, tipos, clases
-- Tipado avanzado
-
-### 2.3 Algoritmica basica y estructuras de datos
+- [Modern Javascript](https://javascript.info/). De aquí, hay que terminar al menos la parte 1 "The Javascript Language"
+- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
 
 ---
 
-## 3. Next.js
+## 3. React & Next.js
 
-### 3.1 ¿Qué es Next.js?
-
-- Ventajas del framework
-- SSR, SSG, CSR
-
-### 3.2 Creación de una aplicación básica
-
-- Rutas y páginas
-- Componentes React
-
-### 3.3 Manejo de datos
-
-- Fetching de datos
-- Integración con API
+- [React foundations](https://nextjs.org/learn/react-foundations).
+- [React tutorial](https://react.dev/learn/tutorial-tic-tac-toe). (Opcional)
+- [NextJs](https://nextjs.org/learn/dashboard-app/getting-started).
 
 ---
 
 ## 4. Supabase
 
-### 4.1 ¿Qué es Supabase?
-
-- Introducción al Backend as a Service
-- Postgres en la nube
-
-### 4.2 Principales características
-
-- Base de datos relacional
-- Autenticación
-- API REST y GraphQL
-
-### 4.3 Integración con Next.js
+- [Supabase + NextJs](https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs)
 
 ---
 
 ## 5. LangGraph
 
-### 5.1 ¿Qué es LangGraph?
-
-- Introducción a los grafos de lenguaje y agentes de IA
-- Casos de uso
-
-### 5.2 Creación de agentes básicos
-
-- Modelos de diálogo
-- Integración en aplicaciones web
+- [Official Course](https://academy.langchain.com/courses/intro-to-langgraph)
+- [Tutorials](https://langchain-ai.github.io/langgraphjs/tutorials/)
 
 ---
 
