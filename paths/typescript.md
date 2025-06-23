@@ -37,6 +37,11 @@ El objetivo de este training es capacitar a los becarios en el uso de tecnologí
 - [Official Course](https://academy.langchain.com/courses/intro-to-langgraph)
 - [Tutorials](https://langchain-ai.github.io/langgraphjs/tutorials/)
 
+## 6. (Opcional) MCP (Model Context Protocol)
+
+- [Seminario Celtiberian](https://celtiberian.es/seminars/126?t=0)
+- [SDK TS](https://github.com/modelcontextprotocol/typescript-sdk) Seguir los pasos del readme para instalarlo y montar alguno de los ejemplos en local.
+
 ---
 
 ## Proyecto Final
