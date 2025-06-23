@@ -69,6 +69,7 @@ Se debe montar un servidor que utilice todas las tecnologías vistas, gestionand
 ## 5. Recursos Adicionales
 
 - [Documentación oficial de Git](https://git-scm.com/doc)
+- [Exploring JS](https://exploringjs.com/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)
 - [Supabase Docs](https://supabase.com/docs)
 - [LangGraph GitHub](https://github.com/langchain-ai/langgraph)
